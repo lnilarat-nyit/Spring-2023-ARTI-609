@@ -6,4 +6,5 @@ development. We will be covering topics like HTML, CSS, JavaScript, JavaScript f
 
 # Students Repos
 - [Luke Nilaratna](https://github.com/lnilarat-nyit/joes-pizza)
-https://github.com/mkc1144/Myrestaurant
+- [Snehil Shah] (https://github.com/snegithub158/sne-pizza)
+- [Muskan K C] (https://github.com/mkc1144/Myrestaurant)
